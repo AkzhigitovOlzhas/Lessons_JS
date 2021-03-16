@@ -62,4 +62,4 @@ console.log(decr--);
 console.log(true&&true === ('2' == 2));
 
 let t = '123t';
-console.log(++t)
+console.log(++t);
