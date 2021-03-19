@@ -62,4 +62,15 @@ console.log(decr--);
 console.log(true&&true === ('2' == 2));
 
 let t = '123t';
-console.log(++t);
+console.log(isNaN(++t));
+console.log("----------------------------------");
+if(2*3==6){
+    console.log(true);
+}else{
+    console.log(false);
+}
+let x =9;
+switch(x){
+    case 7:console.log(7);break;
+    case 9: console.log(9);break;
+}
